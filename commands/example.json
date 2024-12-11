@@ -1,0 +1,8 @@
+{
+  "name": "example",
+  "node": {
+    "address": "http://example.com",
+    "_note": "http request only accepted",
+    "key": "YOUR_NODE_API_KEY"
+  }
+}

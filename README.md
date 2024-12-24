@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a951115c-2a37-4a2c-83ab-89763cfc349a" alt="HydraPanel Nodes Monitoring">
+  <img src="https://raw.githubusercontent.com/HydraLabs-beta/sedar/main/nodestatsbot.png" alt="HydraPanel Nodes Monitoring">
 </p>
 
 <h1 align="center">HydraPanel Nodes Monitoring</h1>
